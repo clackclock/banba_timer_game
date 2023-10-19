@@ -1,18 +1,11 @@
 # banba_timer_game
 A p5.js game where the timer for a level is the ripening of a banana. The player has to avoid falling objects until the timer is up with only three hit points
 
-[license link](http://www.wtfpl.net/about/)
+As this is essentially javascript this can be adpated into an html projcet easily or copy and pasted back into p5.js web editor
+and figure out what you need to do from there
 
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-                    Version 2, December 2004 
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> 
-
- Everyone is permitted to copy and distribute verbatim or modified 
- copies of this license document, and changing it is allowed as long 
- as the name is changed. 
+[license website link](http://www.wtfpl.net/about/)
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+ 
+                    Version 2, December 2004 
